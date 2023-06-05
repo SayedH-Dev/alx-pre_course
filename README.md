@@ -1,3 +1,3 @@
 my first readme
 
-My first change from GitHub.com
+First change from GitHub.com
